@@ -13,7 +13,7 @@ public class TEST {
 		   System.out.println("凑整:Math.ceil(2.5)=" + (int)Math.ceil(2.5)); 
 		   System.out.println("凑整:Math.ceil(2.9)=" + (int)Math.ceil(2.9));
 		   
-		   String string = "string";
+		   String string = "string2";
 		   String s = null;
 		   
 		   System.out.println(s.equals(string));
