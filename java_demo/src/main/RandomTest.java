@@ -1,0 +1,16 @@
+package main;
+
+import java.util.Random;
+
+public class RandomTest {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+		Random random = new Random();
+		System.out.println(random.nextInt(2));
+	}
+
+}
