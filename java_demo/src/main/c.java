@@ -1,6 +1,6 @@
 package main;
 
-public class TEST {
+public class c {
 
 	/**
 	 * @param args
