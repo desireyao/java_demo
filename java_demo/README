@@ -1,6 +1,6 @@
 //---java测试案例---
 /**
- *@author desireyao
+ * @author desireyao
  */
 
 a.hashmap
@@ -8,5 +8,5 @@ b.随机数
 c.测试math函数
 d.测试集合
 e.String equal 
-f.HashMap
+f.HashMap 
 g.File
