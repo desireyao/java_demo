@@ -3,7 +3,7 @@
  * @author desireyao
  */
 
-a. hashmap
+a. ArrayList LinkedList
 b. 随机数
 c. 测试math函数
 d. 测试集合
@@ -14,3 +14,4 @@ g. File
 h. 线程池
 i. 测试建造者模式
 j. 局部变量 char 泛微笔试题
+
