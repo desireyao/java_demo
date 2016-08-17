@@ -27,6 +27,7 @@ public class a {
 	    for (int i = 0; i < 5000000; i++) {
 	    	linkList.add(i);
 		}
+	    
 	    startTime = System.currentTimeMillis();
 //	    linkList.get(499999);
 	    linkList.remove(49999);

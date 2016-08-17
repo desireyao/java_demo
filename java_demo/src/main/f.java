@@ -19,7 +19,7 @@ import java.util.HashMap;
 
       在遍历的时候会比 HashMap慢 TreeMap能够把它保存的记录根据键排序，默认是按升序排序，也可以指定排序的比较器。
       当用 Iterator遍历 TreeMap时，得到的记录是排过序的。
- */
+*/
 
 
 public class f {
@@ -27,8 +27,11 @@ public class f {
 	public static void main(String[] args) {
 		
 		HashMap<String, String> maps = new HashMap<String, String>();
-		System.out.println(maps.get("kk"));
 		
+		maps.put("key0", "values0");
+		maps.put("key0", "values1");
+		
+		System.out.println(maps.get("key0"));
 	}
 
 }
